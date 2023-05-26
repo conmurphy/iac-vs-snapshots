@@ -11,9 +11,4 @@ apic:
           vrf: vrf1
           subnets: 
             - ip: 192.168.10.254/24 
-
-        - name: 192.168.20.0_24
-          vrf: vrf1
-          subnets: 
-            - ip: 192.168.20.254/24
             
